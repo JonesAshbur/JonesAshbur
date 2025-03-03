@@ -17,4 +17,4 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JonesAshbur&theme=onedark&title=-Stars,-Followers,-Experience,-Issues&margin-w=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonesAshbur&layout=compact&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonesAshbur&layout=compact&card_width=400)
