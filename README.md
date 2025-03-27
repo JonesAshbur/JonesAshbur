@@ -18,4 +18,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JonesAshbur&theme=onedark&title=-Stars,-Followers,-Experience,-Issues&margin-w=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonesAshbur&layout=compact&card_width=420)
 
-
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jonesashbur/jonesashbur/blog/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jonesashbur/jonesashbur/blog/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
